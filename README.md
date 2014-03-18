@@ -15,7 +15,7 @@ Installation
 with *Rstudio* 
 * Project menu -> New Project -> Version Control -> **Git**
 * Paste following Repository URL: https://github.com/okugami79/sentiment140 
-* Shift-Control b - to build R package 
+* Shift-Control b - to build R package (You might be prompt to install dependency 'plyr' first)
 * type library(sentiment) at R console,  start using it! 
 
 
